@@ -19,7 +19,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcow)](https://solved.ac/imcow/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-camellia&show_icons=true&theme=radical)
