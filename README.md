@@ -21,4 +21,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcow)](https://solved.ac/imcow/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-camellia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-cow&show_icons=true&theme=radical)
